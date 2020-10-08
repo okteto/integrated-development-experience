@@ -10,13 +10,12 @@ You know what x is used mostly for in maths, variables. IDEx also gives you the 
 1. **Okteto-IDE** - Work in Progress
 2. **[Eclipse Thiea](https://github.com/eclipse-theia/theia)** - Work in Progress (Default)
 3. **[Code Server](https://github.com/cdr/code-server)** - TBA
-### b) Plugins: TBA
 
 ## Roadmap:
 ```
-Note: **(@) ->** Work in Progress
-      **(~) ->** Pending
-      **(*) ->** Completed
+Note: (@) -> Work in Progress
+      (~) -> Pending
+      (*) -> Completed
 ```
 * **(@)** IDEx: Add support for Eclipse-Theia
 * **(@)** Okteto-IDE: Build upon Eclipse-Theia as base
