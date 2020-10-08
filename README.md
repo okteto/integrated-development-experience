@@ -3,13 +3,7 @@ What do you imagine the next generation development experience for Cloud Native 
 > **LTS:** None, **Current:** v0.1.0
 
 ## Components
-### a) IDEx: Integrated Development Environment
-You know what x is used mostly for in maths, variables. IDEx in the same way gives you the freedom to replace x with any of the supported IDE's or bring your own custom environment.
-<br><br>
-**Supported IDEs:**
-1. **Okteto-IDE** - Work in Progress
-2. **[Eclipse Thiea](https://github.com/eclipse-theia/theia)** - Work in Progress (Default)
-3. **[Code Server](https://github.com/cdr/code-server)** - TBA
+**a) [IDEx](./IDEx):** The Integrated Development Environment
 
 ## Roadmap:
 ```
