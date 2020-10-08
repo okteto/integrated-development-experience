@@ -4,7 +4,7 @@ What do you imagine the next generation development experience for Cloud Native 
 
 ## Components
 ### a) IDEx: Integrated Development Environment
-You know what x is used mostly for in maths, variables. IDEx also gives you the freedom to choose any of the supported IDE's or bring your own custom environment.
+You know what x is used mostly for in maths, variables. IDEx in the same way gives you the freedom to replace x with any of the supported IDE's or bring your own custom environment.
 <br><br>
 **Supported IDEs:**
 1. **Okteto-IDE** - Work in Progress
